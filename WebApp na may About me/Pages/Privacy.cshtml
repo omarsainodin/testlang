@@ -1,0 +1,19 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<link href="~/css/privacy.css" rel="stylesheet">
+<body>
+    <h1>@ViewData["Title"]</h1>
+
+    <p>Use this page to detail your site's privacy policy.</p>
+    <button onclick ="Shrek()"> Don't Press this</button>
+
+    <script>
+        function Shrek() {
+            location.replace("https://www.dreamworks.com/movies/shrek")
+        }
+    </script>
+
+</body>

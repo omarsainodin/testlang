@@ -1,0 +1,6 @@
+﻿namespace WebApp_na_may_About_me.Pages
+{
+    public class Testlang
+    {
+    }
+}

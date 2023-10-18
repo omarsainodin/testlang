@@ -1,0 +1,44 @@
+﻿.boxbox {
+    
+}
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-image: url('yaw.jpg');
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    padding: 50px;
+    margin-top: 50px;
+    margin-right: 350px;
+    margin-left: 350px;
+    border-style: solid;
+    font-size: 30px;
+    background-color: white;
+    border-radius: 30px;
+    border-width: 5px;
+    background-image: url('r.gif');
+    color: white;
+    border-color: black;
+}
+
+p {
+    text-decoration: underline;
+    font-weight: bold;
+    color: white;
+    text-align: justify;
+    padding: 50px;
+    margin-top: 50px;
+    margin-right: 150px;
+    margin-left: 80px;
+    border-style: solid;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 30px;
+    border-width: 5px;
+    background-image: url('R.jpg');
+    border-color: black;
+}
